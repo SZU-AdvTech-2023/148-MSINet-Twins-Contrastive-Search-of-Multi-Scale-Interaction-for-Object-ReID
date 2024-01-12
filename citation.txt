@@ -1,0 +1,7 @@
+@inproceedings{REPO148,
+    author = "Gu, Jianyang and Wang, Kai and Luo, Hao and Chen, Chen and Jiang, Wei and Fang, Yuqiang and Zhang, Shanghang and You, Yang and Zhao, Jian",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "19243--19253",
+    title = "{MSINet: Twins Contrastive Search of Multi-Scale Interaction for Object ReID}",
+    year = "2023"
+}
